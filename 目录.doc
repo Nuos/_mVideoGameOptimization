@@ -34,3 +34,40 @@
     Big O Notation (https://en.wikipedia.org/wiki/Big_O_notation)
     
     结论
+    
+    
+  第二章
+    项目规划
+    
+      性能优化预算
+        详细说明
+        开发时间节点
+        
+      典型的项目开发规划
+      
+      基于预算的最大化收益
+      
+      性能表现的可视化
+      
+      慢的含义
+        高帧率
+        一致性的价值
+        
+      结论
+
+
+  第三章
+    工具
+    
+      Instrusiveness(?)
+      
+      工具类型
+        性能测试工具
+        系统监视器
+        系统调整器
+      
+      Timer 101
+      
+      编码工具
+        Simple Timing
+        
