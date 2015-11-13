@@ -70,4 +70,56 @@
       
       编码工具
         Simple Timing
+        分层级剖析
+        计数器
+        分析报告
         
+      Tool Spotlight
+        Intel VTune
+          Counter Monitor
+          Sampling
+          Call Graph
+        Microsoft PIX for Windows (https://en.wikipedia.org/wiki/PIX_(Microsoft))
+        NVIDIA PerfHUD (https://developer.nvidia.com/nvidia-perfhud-es)
+        NVIDIA FX Composer (https://developer.nvidia.com/fx-composer)
+        DirectX Debug Runtime ( ? )
+        gprof
+        AMD CodeAnalyst
+        AMD GPU PerfStudio
+      
+      结论
+      
+      原文引用链接
+      
+
+  第四章
+    硬件基础
+      
+      内存
+        寄存器和高速缓冲存储器 Registers and Caches
+        内存映射 (Memory Mapping)
+        动态随机访问内存 (Dynamic Random Access Memory)
+        直接内存访问 (Direct Memory Access)
+        虚拟内存 (Virtual Memory)
+        图形处理器和内存 (GPU and Memory)
+        对齐和抓取 (Alignment and Fetching)
+        高速缓冲存储器 (Caching)
+      
+      中央处理器 (CPU)
+        指令的生存周期
+          加载/抓取/解码
+          执行
+          退出
+        无序运行
+        数据依赖
+        分支和分支预测单元
+        多线程同步
+        多核 (Multi-Core)
+        
+      图形处理器: 从 API 到 Pixel
+        应用程序对API的调用
+        几何图元 (Geometry)
+        光栅化 (Rasterization)
+        
+      图形处理器性能术语
+      
