@@ -121,5 +121,68 @@
         几何图元 (Geometry)
         光栅化 (Rasterization)
         
-      图形处理器性能术语
+      图形处理器性能术语 (GPU Performance Terms)
+        GPU 的可编程性
+        着色器硬件支持 (Shader Hardware)
+        着色器语言 (Shader Languages)
+        着色器模型 (Shader Model)
+        着色器和流水线处理 (Shaders and Stream Processing)
+        
+      结论
+      
+      原文引用链接
+
+
+  第五章
+    视频游戏的整体性优化
+    
+      整体性 -最优的方法
+        类比 和一个整体性角度的方法
+        动力来自系统
+        
+      过程
+      
+      基准
+      
+      图形处理器的使用 (GPU Utilization)
+        决策
+        工具
+        
+      中央处理器的边界: 纵览 (CPU Bound: Overview)
+      
+      中央处理器: 可编程边界 (CPU: Source Bound)
+        期望
+        工具
+        第三方模块边界
+        
+      图形处理器边界 (GPU Bound)
+        (Pre-Unified Shader Architecture)
+          工具
+        (Unified Shader Architecture)
+          工具
+        内核 (Kernels)
+          图形处理器内的权衡 (Balancing Within the GPU)
+          片元阻塞 (Fragment Occlusion)
+      
+      图形卡总线 (Graphics Bus)
+      
+      示例
+      
+      结论
+      
+      原文引用链接
+
+
+  第六章
+    中央处理器边界: 内存
+    
+      内存问题检测
+      
+      解决方案
+      
+      预抓取 (Pre-Fetching)
+      
+      访问模式和高速缓冲存储器 (Access Patterns and Cache)
+      
+    
       
